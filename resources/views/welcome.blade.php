@@ -9,6 +9,7 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
+        <link href="/dist/output.css" rel="stylesheet">
 
         <!-- Styles -->
         <style>
@@ -30,6 +31,8 @@
                     @endauth
                 </div>
             @endif
+
+            
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-center">
@@ -131,7 +134,7 @@
                     </div>
 
                     <div class="ml-4 text-center text-sm text-gray-500 dark:text-gray-400 sm:text-right sm:ml-0">
-                        Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }}) me equivoque  hkhkjhkjhiuhuihiuh jkjiouiouj------
+                        Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }}) 
 
                     </div>
                 </div>

@@ -14,4 +14,10 @@
             </div>
         </div>
     </div>
+
+    <div>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias debitis fugit amet nobis omnis. Modi nostrum pariatur debitis doloribus! Doloremque rem ipsum earum ad ullam maiores minus. Animi, libero reiciendis.
+            
+        </p>
+    </div>
 </x-app-layout>
