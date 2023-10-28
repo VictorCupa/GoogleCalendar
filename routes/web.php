@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
+use Spatie\GoogleCalendar\Event;
 
 /*
 |--------------------------------------------------------------------------
@@ -29,4 +30,3 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
- 
